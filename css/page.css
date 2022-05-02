@@ -47,7 +47,7 @@
 	display: flex;
 	margin: 0 auto;
 	padding: 196px 40px 160px;
-	flex-basis: 721px;
+	flex-basis: 1260px;
 	flex-direction: column
 }
 
@@ -132,7 +132,7 @@
 	.article-content .content {
 		display: flex;
 		padding: 64px 40px;
-		max-width: 1920px;
+		max-width: 1360px;
 		font-size: 18px;
 		flex-direction: column
 	}
@@ -142,7 +142,7 @@
 		z-index: 2;
 		display: flex;
 		margin: 0 auto;
-		max-width: 1920px;
+		max-width: 1360px;
 		border-radius: 10px;
 		background: #fff;
 		flex-direction: column;
@@ -155,7 +155,7 @@
 		display: flex;
 		margin: 0 auto;
 		padding: 64px 16px;
-		max-width: 1920px;
+		max-width: 1360px;
 		border-radius: 10px;
 		background: #fff;
 		flex-direction: column;
